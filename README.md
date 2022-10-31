@@ -7,7 +7,7 @@
 # Web Application Live Demo
 <p align="center">
   <p align="center">
-    <a href="https://angular.ganatan.com/">
+    <a href="https://venkatangularapp.azurewebsites.net/">
       <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 14 Example 
       Application"/>
     </a>
@@ -19,10 +19,10 @@
 ```bash
 # choose a repo
 # download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-ssr.git
+git clone https://github.com/kadiyamram/DeployAngularInAzure.git
 
 # download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-ssr.git
+git clone https://github.com/kadiyamram/DeployAngularInAzure.git
 
 # change directory
 cd angular-ssr
